@@ -166,8 +166,8 @@ It helps reveal separation, overlap, and structure among the clusters in reduced
 By applying machine learning techniques, it is possible to achieve effective categorization of banking customers, enabling a deeper understanding of their behaviors and needs. This segmentation provides a clearer view of the customer base, making it easier to personalize marketing strategies, identify opportunities for product and service improvement, and support more informed business decision-making. In summary, customer segmentation is a powerful tool for any organization in the modern era, allowing for more agile adaptation to changing market demands and delivering a more satisfying experience for customers.
 
 ## Author
-Agustín Rojas  
-[LinkedIn](https://www.linkedin.com/in/agust%C3%ADnsilviorojas/)
+Agustín Rojas and Leandro Maldonado.
+[LinkedIn](https://www.linkedin.com/in/agust%C3%ADnsilviorojas/) Agustín Rojas
 
 ---
 For questions or feedback, please contact: agustinsilviorojas@outlook.com.ar
